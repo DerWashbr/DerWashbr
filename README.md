@@ -6,7 +6,7 @@
   <img src="https://avatars.githubusercontent.com/u/57878304?s=200&v=100" />
   </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-36-blue" />
+  <img src="https://img.shields.io/badge/Age-37-blue" />
   <img src="https://img.shields.io/badge/Lives-Hamburg-blue" />
   <img src="https://img.shields.io/badge/Languages-German%20%26%20English-blue" />
   <img src="https://komarev.com/ghpvc/?username=derwashbr&color=blue&label=Profile+Views&style=flat" alt="watching_count" />
@@ -35,13 +35,34 @@ Here are some ideas to get you started:
     alt="example" />
 </p>
 
+<hr>
 
 
+<h1 align="center">Coding & Tools</h1>
 
-
-
+<h3 align="center">Learning</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-1.0-blue?style=flat&logo=" /> <img src="https://img.shields.io/badge/Last Edited on:-21/09/2021-blue?style=flat&logo=" />
+  <b> <br>
+    🌱 I’m currently learning  </b><br>
+  </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<br />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+
+<hr>
+<h2 align="center">Languages and Tools</h2>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
+
+
+ </p>
+<hr>
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-1.0.1-blue?style=flat&logo=" /> <img src="https://img.shields.io/badge/Last Edited on:-12.07.2022-blue?style=flat&logo=" />
   <br>
   Credits: <a href="https://github.com/DerWashbr">DerWashbr</a>
  </p>

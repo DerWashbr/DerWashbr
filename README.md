@@ -6,7 +6,7 @@
   <img src="https://avatars.githubusercontent.com/u/57878304?s=200&v=100" />
   </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-37-blue" />
+  <img src="https://img.shields.io/badge/Age-38-blue" />
   <img src="https://img.shields.io/badge/Lives-Hamburg-blue" />
   <img src="https://img.shields.io/badge/Languages-German%20%26%20English-blue" />
   <img src="https://komarev.com/ghpvc/?username=derwashbr&color=blue&label=Profile+Views&style=flat" alt="watching_count" />
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
  </p>
 <hr>
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-1.0.1-blue?style=flat&logo=" /> <img src="https://img.shields.io/badge/Last Edited on:-12.07.2022-blue?style=flat&logo=" />
+  <img src="https://img.shields.io/badge/Version-1.0.1-blue?style=flat&logo=" /> <img src="https://img.shields.io/badge/Last Edited on:-16.05.2023-blue?style=flat&logo=" />
   <br>
   Credits: <a href="https://github.com/DerWashbr">DerWashbr</a>
  </p>
